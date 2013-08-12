@@ -1,0 +1,30 @@
+div {
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+}
+
+.info-box {
+	border-radius: 1px;
+	border: 2px solid #444;
+	padding: 4px;
+	margin: 2px;
+	background-color: #eee;
+	width:45%;
+	float: left;
+}
+
+.single-block {
+	border-radius: 1px;
+	border: 2px solid #444;
+	padding: 4px;
+	margin: 2px;
+	background-color: #aaa;
+	width:90%;
+	float: left;
+}
+
+
+
+
+
+
