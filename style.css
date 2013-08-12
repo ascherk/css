@@ -10,6 +10,8 @@ div {
 	margin: 2px;
 	background-color: #eee;
 	width:45%;
+	/*height: 30%;*/
+	overflow: auto;
 	float: left;
 }
 
@@ -20,7 +22,7 @@ div {
 	margin: 2px;
 	background-color: #aaa;
 	width:90%;
-	float: left;
+	clear: both;
 }
 
 
