@@ -5,7 +5,7 @@ div {
 
 .info-box {
 	border-radius: 1px;
-	border: 2px solid #444;
+	border: 2px solid #aaa;
 	padding: 4px;
 	margin: 2px;
 	background-color: #eee;
@@ -27,6 +27,20 @@ div {
 
 
 
+.artist {
+	font-size: 1.2em;
+	border: 1px solid black;
+}
 
+.album {
+	font-size: 1em;
+}
 
+.track {
+	font-size: 0.8em;
+	
+}
 
+ul {
+	padding-left: 0px;
+}
