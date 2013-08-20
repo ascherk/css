@@ -29,7 +29,17 @@ div {
 
 .artist {
 	font-size: 1.2em;
+	border: 1px dotted black;
+	padding: 6px;
+	margin-top: 12px;
+}
+
+.artist>.info {
+	font-size: 1.2em;
 	border: 1px solid black;
+	background-color: #ddd;
+	border-radius: 3px;
+	width: 100%;
 }
 
 .album {
