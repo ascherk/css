@@ -9,4 +9,12 @@ $(document).ready( function(){
 		$( "#acco1" ).accordion();
 	});
 
+	// enable drag on this div
+	$( "#d1" ).draggable();
+	$( "#button" ).click(function() {
+		$( ".modifyMe" ).addClass( "newStyle", 1000 );
+		return false;
+	});
 });
+
+
